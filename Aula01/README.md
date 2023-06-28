@@ -17,3 +17,4 @@
 - Criando um componente - O que é um componente? - Qual a estrutura e suas características
 - Como as rotas funcionam
 - Como renderizar diferentes componentes
+- Property Binding
