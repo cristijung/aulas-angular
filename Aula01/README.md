@@ -1,5 +1,5 @@
 # Aula 01
-- Itens da aula 01
+## Itens da aula 01
 - Criação do projeto
 - Estrutura do projeto
 - Arquivo package.json
