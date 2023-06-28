@@ -18,3 +18,13 @@
 - Como as rotas funcionam
 - Como renderizar diferentes componentes
 - Property Binding
+
+## Property Binding
+É um mecanismo que permite associar o valor de uma propriedade de um elemento HTML a uma expressão ou variável definida no componente do Angular. Ele é usado para atualizar dinamicamente os valores das propriedades do elemento com base em lógica definida no componente.
+
+O Property Binding é usado para interligar o modelo de dados do componente ao template HTML, permitindo que as alterações feitas no componente sejam refletidas na visualização do template e vice-versa.
+
+A sintaxe do Property Binding no Angular utiliza colchetes (`[]`) para envolver a expressão que representa a propriedade a ser vinculada. 
+
+### Interpolação 
+## Event Binding
