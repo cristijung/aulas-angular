@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./rotas.component.scss'],
 })
 export class RotasComponent {
-  title = 'Aula01';
+  title = 'Trabalhando com Rotas';
   nome: string = 'Pafúncio';
 
   atualizarNome() {
