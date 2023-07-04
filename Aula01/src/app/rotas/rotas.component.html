@@ -1,0 +1,8 @@
+<h2>{{ title }}</h2>
+
+<p>O nome é: {{ nome }}</p> <!--Data binding por Angular Expression - para exibir um valor de uma tag-->
+<button mat-raised-button color="accent" (click)="atualizarNome()">Atualizar nome</button>
+<br/>
+<div>
+  <img [src]="url" [alt]="description"/> <!--data binding de atributos - para exibir um valor de um atributo HTML-->
+</div>
