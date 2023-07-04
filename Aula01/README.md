@@ -3,11 +3,10 @@
 - Criação do projeto
 - Estrutura do projeto
 - Arquivo package.json
-- Arquivo de estilização global
+- Arquivo de estilização global & Material Angular
 - Arquivo HTML
 - Como trabalhar com componentes
-- Como criar componentes
-- Estrutura do componente
+
 
 ## Depois da criação do projeto:
 - Comando para rodar no servidor: `ng serve --open`
@@ -26,5 +25,9 @@ O Property Binding é usado para interligar o modelo de dados do componente ao t
 
 A sintaxe do Property Binding no Angular utiliza colchetes (`[]`) para envolver a expressão que representa a propriedade a ser vinculada. 
 
-### Interpolação 
-## Event Binding
+## Material Angular
+Introdução a estilização do Angular pelo material
+- Comando: `ng add @angular/material`
+
+
+
