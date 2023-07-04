@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Aula01';
+  nome: string = 'Pafúncio';
+
+  atualizarNome() {
+    this.nome = 'Felisberta';
+  }
+  description = 'Angular';
+  url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png';
 }
+
