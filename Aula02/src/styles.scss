@@ -1,4 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 
+:root {
+  --txt-titulo: #fff;
+  --shadow-tex: #352818;
+  --txt-normal: #3d293f;
+  --fundo-navbar: #252527;
+  --fundo-btn-navbar: #B5B4B8;
+}
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.container {
+  max-width: 98%;
+  margin: auto;
+}
+
