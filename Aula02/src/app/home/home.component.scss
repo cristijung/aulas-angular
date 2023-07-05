@@ -1,0 +1,15 @@
+
+ul {
+  color: var(--text-normal);
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+li {
+  list-style: none;
+  line-height: 1.4em;
+}
+
+li:hover {
+  background-color: #f0eeee;
+}
