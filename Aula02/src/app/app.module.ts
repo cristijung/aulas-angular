@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 
 @NgModule({
@@ -13,6 +14,7 @@ import { HomeComponent } from './home/home.component';
     AppComponent,
     HeaderComponent,
     HomeComponent,
+    NavbarComponent,
   ],
   imports: [
     BrowserModule,
