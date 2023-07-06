@@ -1,0 +1,11 @@
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.cat-img {
+  margin: 1%;
+  border-radius: 6px;
+  max-width: 60%;
+}

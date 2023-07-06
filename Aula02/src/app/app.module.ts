@@ -23,8 +23,6 @@ import { DinamicoComponent } from './dinamico/dinamico.component';
     ComponenteComponent,
     EbindingComponent,
     DinamicoComponent,
-
-
   ],
   imports: [
     BrowserModule,
