@@ -1,0 +1,17 @@
+.topo {
+  background: url(../../assets/fundo-header.jpg);
+  height: 348px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.txt-titulo {
+  color: var(--txt-titulo);
+  font-size: 6em;
+  font-weight: bold;
+  padding-left: 2%;
+  text-shadow: var(--shadow-tex) 0.1em 0.1em 0.2em
+}
+
