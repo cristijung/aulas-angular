@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  --fundo-header: 	#4682B4;
+  --fundo-footer: #708090;
+  --texto-principal: #fff;
+  --título-header: #FFF5EE;
+  --stitulo-header: #D3D3D3;
+}
+
+.container {
+  width: 95%;
+  margin: auto;
+  margin-top: 0px;
+}
+
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
