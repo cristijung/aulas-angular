@@ -1,4 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
 
+:root {
+  --fundo-body: #000;
+  --fundo-header: 	#6b0f08;
+  --fundo-footer: #a30606;
+  --texto-principal: #fff;
+  --titulo-header: #FFF5EE;
+  --stitulo-header: #d3989d;
+}
+
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.container {
+  max-width: 95%;
+  margin: auto;
+  background-color: var(--fundo-body);
+  color: var(--texto-principal);
+}
