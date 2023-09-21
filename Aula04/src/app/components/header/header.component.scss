@@ -1,0 +1,30 @@
+
+
+.header {
+  background-image: url(../../../assets/dracul-header.png);
+  background-size: cover;
+  height: 333px;
+}
+
+.title {
+  padding-left: 2%;
+  padding-top: 20%;
+  font-family: 'Prompt', sans-serif;
+  font-size: 4em;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.menu {
+  background-color: var(--fundo-header);
+  color:var(--texto-principal);
+}
+
+.menu-icon {
+  background-color: var(--fundo-header);
+  border: 0px;
+  color:var(--texto-principal);
+  cursor: pointer;
+}
